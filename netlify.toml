@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://zowlwebdesign.netlify.app/*"
+  to = "https://zowlwebdesign.com/:splat"
+  status = 301
+  force = true
